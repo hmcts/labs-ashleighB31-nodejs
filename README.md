@@ -1,6 +1,6 @@
 # labs-ashleighB31-nodejs
 
-Deploying a Node.js application 
+Deploying a Node.js application...
 
 ## Getting Started
 
