@@ -1,4 +1,4 @@
-# labs-ashleighB31-nodejs
+# labs-ashleighb31-nodejs
 
 Deploying a Node.js application...
 

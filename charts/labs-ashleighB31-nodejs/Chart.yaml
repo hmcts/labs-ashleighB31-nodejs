@@ -1,8 +1,8 @@
 apiVersion: v2
 appVersion: '1.0'
-description: A Helm chart for labs-ashleighB31-nodejs App
-name: labs-ashleighB31-nodejs
-home: https://github.com/hmcts/labs-ashleighB31-nodejs
+description: A Helm chart for labs-ashleighb31-nodejs App
+name: labs-ashleighb31-nodejs
+home: https://github.com/hmcts/labs-ashleighb31-nodejs
 version: 0.0.6
 dependencies:
   - name: nodejs
