@@ -4,7 +4,7 @@
 
 def type = "nodejs"
 def product = "labs"
-def component = "ashleighB31-nodejs"
+def component = "ashleighb31-nodejs"
 
 def yarnBuilder = new uk.gov.hmcts.contino.YarnBuilder(this)
 

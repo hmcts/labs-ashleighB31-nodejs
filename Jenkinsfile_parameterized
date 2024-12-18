@@ -4,7 +4,7 @@
 
 def type = "nodejs"
 def product = "labs"
-def component = "ashleighB31-nodejs"
+def component = "ashleighb31-nodejs"
 
 // docs:
 // 1. https://github.com/hmcts/cnp-jenkins-library
